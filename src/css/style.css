@@ -2,10 +2,10 @@
     font-family: OpenSans-Bold;
     font-style: normal;
     font-weight: 400;
-    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/OpenSans-Bold.eot);
-    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/OpenSans-Bold.eot?#iefix) format("embedded-opentype"),
-        url(https://dimon-z.github.io/testTaskEco/src/fonts/OpenSans-Bold.woff) format("woff"),
-        url(https://dimon-z.github.io/testTaskEco/src/fonts/OpenSans-Bold.ttf) format("truetype")
+    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/opensans-bold.eot);
+    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/opensans-bold.eot?#iefix) format("embedded-opentype"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/opensans-bold.woff) format("woff"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/opensans-bold.ttf) format("truetype")
 }
 
 @font-face {
