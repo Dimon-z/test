@@ -2,46 +2,46 @@
     font-family: OpenSans-Bold;
     font-style: normal;
     font-weight: 400;
-    src: url(../fonts/OpenSans-Bold.eot);
-    src: url(../fonts/OpenSans-Bold.eot?#iefix) format("embedded-opentype"),
-        url(../fonts/OpenSans-Bold.woff) format("woff"),
-        url(../fonts/OpenSans-Bold.ttf) format("truetype")
+    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/OpenSans-Bold.eot);
+    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/OpenSans-Bold.eot?#iefix) format("embedded-opentype"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/OpenSans-Bold.woff) format("woff"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/OpenSans-Bold.ttf) format("truetype")
 }
 
 @font-face {
     font-family: Raleway-Regular;
     font-style: normal;
     font-weight: 400;
-    src: url(../fonts/Raleway-Regular.eot);
-    src: url(../fonts/Raleway-Regular.eot?#iefix) format("embedded-opentype"),
-        url(../fonts/Raleway-Regular.woff) format("woff"),
-        url(../fonts/Raleway-Regular.woff2) format("woff2"),
-        url(../fonts/Raleway-Regular.svg) format("svg"),
-        url(../fonts/Raleway-Regular.ttf) format("truetype")
+    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Regular.eot);
+    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Regular.eot?#iefix) format("embedded-opentype"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Regular.woff) format("woff"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Regular.woff2) format("woff2"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Regular.svg) format("svg"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Regular.ttf) format("truetype")
 }
 
 @font-face {
     font-family: Raleway-Bold;
     font-style: normal;
     font-weight: 400;
-    src: url(../fonts/Raleway-Bold.eot);
-    src: url(../fonts/Raleway-Bold.eot?#iefix) format("embedded-opentype"),
-        url(../fonts/Raleway-Bold.woff) format("woff"),
-        url(../fonts/Raleway-Bold.woff2) format("woff2"),
-        url(../fonts/Raleway-Bold.svg) format("svg"),
-        url(../fonts/Raleway-Bold.ttf) format("truetype")
+    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Bold.eot);
+    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Bold.eot?#iefix) format("embedded-opentype"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Bold.woff) format("woff"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Bold.woff2) format("woff2"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Bold.svg) format("svg"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-Bold.ttf) format("truetype")
 }
 
 @font-face {
     font-family: Raleway-SemiBold;
     font-style: normal;
     font-weight: 400;
-    src: url(../fonts/Raleway-SemiBold.eot);
-    src: url(../fonts/Raleway-SemiBold.eot?#iefix) format("embedded-opentype"),
-        url(../fonts/Raleway-SemiBold.woff) format("woff"),
-        url(../fonts/Raleway-SemiBold.woff2) format("woff2"),
-        url(../fonts/Raleway-SemiBold.svg) format("svg"),
-        url(../fonts/Raleway-SemiBold.ttf) format("truetype")
+    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-SemiBold.eot);
+    src: url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-SemiBold.eot?#iefix) format("embedded-opentype"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-SemiBold.woff) format("woff"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-SemiBold.woff2) format("woff2"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-SemiBold.svg) format("svg"),
+        url(https://dimon-z.github.io/testTaskEco/src/fonts/Raleway-SemiBold.ttf) format("truetype")
 }
 
 
@@ -90,7 +90,7 @@ img {
 }
 
 .wrapper__top {
-    background: url(/src/img/top.png) no-repeat;
+    background: url(https://dimon-z.github.io/testTaskEco/src/img/top.png) no-repeat;
     background-size: cover;
     margin: 0 auto;
     width: auto;
