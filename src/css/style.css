@@ -49,7 +49,7 @@
 html {
     box-sizing: border-box;
     scroll-behavior: smooth;
-    width: calc(100%-1px);
+    overflow-x: hidden;
 }
 
 body {
