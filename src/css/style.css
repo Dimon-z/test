@@ -395,6 +395,7 @@ img {
     }
 
     #menu__toggle:checked+.menu__btn>span {
+        top: 10px;
         transform: rotate(45deg);
     }
 
@@ -414,7 +415,7 @@ img {
 
     .menu__btn {
         position: fixed;
-        top: 20px;
+        top: 24px;
         left: 20px;
         width: 26px;
         height: 26px;
@@ -433,14 +434,18 @@ img {
         transition-duration: .25s;
     }
 
+    .menu__btn>span {
+        top: 4px;
+    }
+
     .menu__btn>span::before {
         content: '';
-        top: -8px;
+        top: 8px;
     }
 
     .menu__btn>span::after {
         content: '';
-        top: 8px;
+        top: 16px;
     }
 
     .menu__box {
