@@ -49,6 +49,7 @@
 html {
     box-sizing: border-box;
     scroll-behavior: smooth;
+    width: calc(100%-1px);
 }
 
 body {
@@ -70,7 +71,6 @@ img {
 }
 
 .wrapper {
-    max-width: 1900px;
     min-width: 400px;
     margin: 0 auto;
 }
@@ -281,8 +281,7 @@ img {
     position: absolute;
     text-decoration: none;
     top: 0;
-    transition: opacity .4s;
-    transition: 0.6s;
+    transition: opacity .6s;
     width: 100%;
     z-index: 1
 }
@@ -323,6 +322,7 @@ img {
 .hamburger-menu {
     display: none;
 }
+
 
 @media screen and (max-width: 1100px) {
     .wrapper__about {
