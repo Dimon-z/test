@@ -73,6 +73,7 @@ img {
     max-width: 1900px;
     min-width: 400px;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 .header {
