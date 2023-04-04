@@ -183,7 +183,7 @@ img {
 }
 
 .about__button {
-    height: 50px;
+    /* height: 50px; */
     margin: 0 auto;
     margin-top: 3vw;
     text-align: center;
@@ -193,7 +193,7 @@ img {
     cursor: pointer;
     display: inline-flex;
     font: 13px/161% Raleway-SemiBold, sans-serif;
-    padding: 0 54px;
+    /*padding: 0 54px;*/
     transition: background-color .3s linear;
     text-transform: uppercase;
 }
@@ -201,6 +201,8 @@ img {
 .about__button-decoration {
     color: white;
     text-decoration: none;
+    padding: 1.5 vh;
+    width: 200px;
 }
 
 .about__button:hover {
